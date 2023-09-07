@@ -1,5 +1,5 @@
 picoCTF <br>
-Inspect Me
+Insp3ct0r
 
 ---
 
