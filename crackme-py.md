@@ -1,5 +1,5 @@
 picoCTF <br>
-crackme-py <br>
+crackme-py
 ---
 
 I started off using `wget` in the webshell to download the script then used `vim` to inspect it. <br><br>
